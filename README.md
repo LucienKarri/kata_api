@@ -7,9 +7,10 @@
 ![](screenshots/signIn.png)
 
 ## Sign up (Authentication)
-![](screenshots/signUn.png)
+![](screenshots/signUp.png)
 
 post-request script:
+
 ![](screenshots/postRqstScript.png)
 
 ## Get current user
